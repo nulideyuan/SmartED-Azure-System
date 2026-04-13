@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# model artifacts
+model_artifacts/**
+
+# data
+*.csv
+*.parquet
+
+# notebook
+.ipynb_checkpoints/

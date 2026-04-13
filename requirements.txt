@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+matplotlib
+streamlit
+openai
+torch
+azure-storage-file-datalake
+azure-identity
